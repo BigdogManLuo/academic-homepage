@@ -28,7 +28,7 @@ Find my blog here:
 <!-- Legend for competition types -->
 <div style="margin-bottom: 10px;">
   <span class="badge"
-        style="background-color:#f5f5f5; border:1px solid #ccccccff; color:#000000ff; font-size:11px; padding:2px 6px; border-radius:10px;">
+        style="background-color:#f5f5f5; border:1px solid #ccccccff; color:#002D72; font-size:11px; padding:2px 6px; border-radius:10px;">
     Metrics-Driven
   </span>
   <span style="font-size:14px; margin-left:6px;">
@@ -36,11 +36,11 @@ Find my blog here:
   </span>
 </div>
 
-### 2025 THS Forecasting Hackathon – _Grand Prize (1st Place)_
+### 2025 THS Forecasting Hackathon – <span style="font-style:italic; color:#f02424ff;">Grand Prize (1st Place)</span>
 
 <small>
   <span class="badge"
-        style="background-color:#f5f5f5; border:1px solid #ccccccff; color:#000000ff; font-size:11px; padding:2px 6px; border-radius:10px;">
+        style="background-color:#f5f5f5; border:1px solid #ccccccff; color:#002D72; font-size:11px; padding:2px 6px; border-radius:10px;">
     Metrics-Driven
   </span>
 </small>
@@ -50,11 +50,11 @@ Find my blog here:
 
 ---
 
-### IEEE Hybrid Energy Forecasting and Trading Competition (HEFTCom24) – _Best Student Team Award (1st Place)_
+### IEEE Hybrid Energy Forecasting and Trading Competition (HEFTCom24) – <span style="font-style:italic; color:#f02424ff;">Best Student Team Award (1st Place)</span>
 
 <small>
   <span class="badge"
-        style="background-color:#f5f5f5; border:1px solid #ccccccff; color:#000000ff; font-size:11px; padding:2px 6px; border-radius:10px;">
+        style="background-color:#f5f5f5; border:1px solid #ccccccff; color:#002D72; font-size:11px; padding:2px 6px; border-radius:10px;">
     Metrics-Driven
   </span>
 </small>
@@ -86,7 +86,7 @@ Find my blog here:
 
 ---
 
-### PandaFPE 2023 – _Best Paper Award_
+### PandaFPE 2023 – <span style="font-style:italic; color:#f02424ff;">Best Paper Award</span>
 
 - Integrated **day-ahead dynamic programming** with **real-time rolling optimization** for Wind-ESS system participation in energy and frequency regulation markets.
   <div class="links" style="display:flex; gap:8px; flex-wrap:wrap; margin-top:6px;">
@@ -109,11 +109,11 @@ Find my blog here:
 
 ---
 
-### 2021 “TI Cup” National Undergraduate Electronic Design Competition – _National 1st Prize_
+### 2021 “TI Cup” National Undergraduate Electronic Design Competition – <span style="font-style:italic; color:#f02424ff;">National 1st Prize</span>
 
 <small>
   <span class="badge"
-        style="background-color:#f5f5f5; border:1px solid #ccccccff; color:#000000ff; font-size:11px; padding:2px 6px; border-radius:10px;">
+        style="background-color:#f5f5f5; border:1px solid #ccccccff; color:#002D72; font-size:11px; padding:2px 6px; border-radius:10px;">
     Metrics-Driven
   </span>
 </small>
