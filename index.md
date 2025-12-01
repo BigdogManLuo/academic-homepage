@@ -82,6 +82,10 @@ Find my blog here:
     </div>
   </div>
 
+### National Competition in Science & Technology on Renewable Energy for College Students -_National 1st Prize_
+
+- Constructed a coordinated multi-energy and logistics scheduling framework for green seaports integrating wind, solar, hydrogen, and energy storage.
+
 ---
 
 ### 2021 “TI Cup” National Undergraduate Electronic Design Competition – <span style="font-style:italic; color:#f02424ff;">National 1st Prize</span>
@@ -90,29 +94,27 @@ Find my blog here:
 - Implemented **three-phase / single-phase PLL, PID, PR controllers**, and **dq / αβ transform modules** for digital signal processing.
 - Completed a full engineering stack from algorithm design to **PCB implementation** and **experimental validation**.
   <div class="links" style="display:flex; gap:8px; flex-wrap:wrap; margin-top:6px;">
-
     <div style="border:1px solid #ccc; border-radius:6px; padding:3px 5px; font-size:14px; background:#fafafa;">
       <a href="https://github.com/BigdogManLuo/DSPLibrary"
-         target="_blank"
-         style="text-decoration:none; color:#0b20e2ff;">
-        DSP Tools
+           target="_blank"
+           style="text-decoration:none; color:#0b20e2ff;">
+          DSP Tools
+      </a>
+      </div>
+
+    <div style="border:1px solid #ccc; border-radius:6px; padding:3px 5px; font-size:14px; background:#fafafa;">
+      <a href="https://github.com/SeanXLee/universal-pe-starterkit"
+           target="_blank"
+           style="text-decoration:none; color:#0b20e2ff;">
+          PCB Source
       </a>
     </div>
 
     <div style="border:1px solid #ccc; border-radius:6px; padding:3px 5px; font-size:14px; background:#fafafa;">
       <a href="https://github.com/SeanXLee/universal-pe-starterkit"
-         target="_blank"
-         style="text-decoration:none; color:#0b20e2ff;">
-        PCB Source
+           target="_blank"
+           style="text-decoration:none; color:#0b20e2ff;">
+          Demo Video
       </a>
     </div>
-
-    <div style="border:1px solid #ccc; border-radius:6px; padding:3px 5px; font-size:14px; background:#fafafa;">
-      <a href="https://github.com/SeanXLee/universal-pe-starterkit"
-         target="_blank"
-         style="text-decoration:none; color:#0b20e2ff;">
-        Demo Video
-      </a>
-    </div>
-
-</div>
+  </div>
