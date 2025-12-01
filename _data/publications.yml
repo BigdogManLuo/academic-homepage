@@ -1,22 +1,26 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Predict-then-Optimize for Seaport Power-Logistics Scheduling: Generalization across Varying Tasks Stream
+    authors: Chuanqing Pu, Feilong Fan, Nengling Tai, Yan Xu, Wentao Huang, Honglin Wen
+    conference_short: IEEE TSG
+    conference: IEEE Transactions on Smart Grid
+    pdf: https://arxiv.org/abs/2511.07938
+    image: ./assets/img/pipeline.png
+    notes: Reviewing
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: A Hybrid Strategy for Probabilistic Forecasting and Trading of Aggregated Wind-Solar Power: Design and Analysis in HEFTCom2024
+    authors: Chuanqing Pu, Feilong Fan, Nengling Tai, Songyuan Liu, Jinming Yu
+    conference_short: IJF
+    conference: International Journal of Forecasting
+    pdf: https://arxiv.org/abs/2505.10367
+    code: https://github.com/BigdogManLuo/HEFTcom24
+    notes: Accepted
+    image: ./assets/img/overview.png
+
+  - title: Distributed Stochastic Operation of Low-Carbon Port Energy-Logistics Systems via Learning to Warm-Start
+    authors: Feilong Fan, Chuanqing Pu, Nengling Tai, Jiayi Luo, Zhanpeng Chen, Xipeng Zhang
+    conference_short: IEEE TIA
+    conference: IEEE Transactions on Industrial Applications
+    pdf: https://ieeexplore.ieee.org/abstract/document/10882993
+    notes: Published
+    image: ./assets/img/framework.png
