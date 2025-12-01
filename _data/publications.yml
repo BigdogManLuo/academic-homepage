@@ -1,6 +1,5 @@
 main:
-
-  - title: Predict-then-Optimize for Seaport Power-Logistics Scheduling: Generalization across Varying Tasks Stream
+  - title: "Predict-then-Optimize for Seaport Power-Logistics Scheduling: Generalization across Varying Tasks Stream"
     authors: Chuanqing Pu, Feilong Fan, Nengling Tai, Yan Xu, Wentao Huang, Honglin Wen
     conference_short: IEEE TSG
     conference: IEEE Transactions on Smart Grid
@@ -8,7 +7,7 @@ main:
     image: ./assets/img/pipeline.png
     notes: Reviewing
 
-  - title: A Hybrid Strategy for Probabilistic Forecasting and Trading of Aggregated Wind-Solar Power: Design and Analysis in HEFTCom2024
+  - title: "A Hybrid Strategy for Probabilistic Forecasting and Trading of Aggregated Wind-Solar Power: Design and Analysis in HEFTCom2024"
     authors: Chuanqing Pu, Feilong Fan, Nengling Tai, Songyuan Liu, Jinming Yu
     conference_short: IJF
     conference: International Journal of Forecasting
@@ -17,7 +16,7 @@ main:
     notes: Accepted
     image: ./assets/img/overview.png
 
-  - title: Distributed Stochastic Operation of Low-Carbon Port Energy-Logistics Systems via Learning to Warm-Start
+  - title: "Distributed Stochastic Operation of Low-Carbon Port Energy-Logistics Systems via Learning to Warm-Start"
     authors: Feilong Fan, Chuanqing Pu, Nengling Tai, Jiayi Luo, Zhanpeng Chen, Xipeng Zhang
     conference_short: IEEE TIA
     conference: IEEE Transactions on Industrial Applications
