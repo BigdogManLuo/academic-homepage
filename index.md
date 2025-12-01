@@ -28,20 +28,21 @@ Find my blog here:
 <!-- Legend for competition types -->
 <div style="margin-bottom: 10px;">
   <span class="badge"
-        style="background-color:#f5f5f5; border:1px solid #ccc; color:#333; font-size:11px; padding:2px 6px; border-radius:10px;">
+        style="background-color:#f5f5f5; border:1px solid #ccccccff; color:#000000ff; font-size:11px; padding:2px 6px; border-radius:10px;">
     Metrics-Driven
   </span>
-  <span style="font-size:12px; margin-left:6px;">
+  <span style="font-size:14px; margin-left:6px;">
     Competitions evaluated mainly by data-based metrics (e.g., forecasting accuracy, decision performance, hardware benchmarks).
   </span>
 </div>
 
-### 2025 THS Forecasting Hackathon – <span class="award-highlight">Grand Prize (1st Place)</span> <small>
+### 2025 THS Forecasting Hackathon – _Grand Prize (1st Place)_
 
-<span class="badge"
-        style="background-color:#f5f5f5; border:1px solid #ccc; color:#333; font-size:11px; padding:2px 6px; border-radius:10px;">
-Metrics-Driven
-</span>
+<small>
+  <span class="badge"
+        style="background-color:#f5f5f5; border:1px solid #ccccccff; color:#000000ff; font-size:11px; padding:2px 6px; border-radius:10px;">
+    Metrics-Driven
+  </span>
 </small>
 
 - **7-hour on-site programming challenge** on forecasting quarterly tourist arrivals for the Hong Kong / Macau region.
@@ -49,38 +50,38 @@ Metrics-Driven
 
 ---
 
-### IEEE Hybrid Energy Forecasting and Trading Competition (HEFTCom24) – _Best Student Team Award (1st Place)_<small>
+### IEEE Hybrid Energy Forecasting and Trading Competition (HEFTCom24) – _Best Student Team Award (1st Place)_
 
-<span class="badge"
-        style="background-color:#f5f5f5; border:1px solid #ccc; color:#333; font-size:11px; padding:2px 6px; border-radius:10px;">
-Metrics-Driven
-</span>
+<small>
+  <span class="badge"
+        style="background-color:#f5f5f5; border:1px solid #ccccccff; color:#000000ff; font-size:11px; padding:2px 6px; border-radius:10px;">
+    Metrics-Driven
+  </span>
 </small>
 
 - Invited to present competition results at **ISF 2024**, and to submit a paper to **International Journal of Forecasting**.
 - Accompanied by a full **research paper** detailing the probabilistic forecasting and trading solution.
-  <div class="links">
-    <a href="https://github.com/BigdogManLuo/HEFTcom24/tree/online"
-       class="btn btn-sm z-depth-0"
-       role="button"
-       target="_blank"
-       style="font-size:12px; margin-right:4px;">
-      Practical Code
-    </a>
-    <a href="https://github.com/BigdogManLuo/HEFTcom24"
-       class="btn btn-sm z-depth-0"
-       role="button"
-       target="_blank"
-       style="font-size:12px; margin-right:4px;">
-      Research Code
-    </a>
-    <a href="https://arxiv.org/abs/2505.10367"
-       class="btn btn-sm z-depth-0"
-       role="button"
-       target="_blank"
-       style="font-size:12px;">
-      Paper
-    </a>
+  <div class="links" style="display:flex; gap:8px; flex-wrap:wrap; margin-top:6px;">
+    <div style="border:1px solid #ccc; border-radius:6px; padding:6px 10px; font-size:12px; background:#fafafa;">
+      <a href="https://github.com/BigdogManLuo/HEFTcom24/tree/online"
+         target="_blank" style="text-decoration:none; color:#0b20e2ff;">
+        Practical Code
+      </a>
+    </div>
+
+    <div style="border:1px solid #ccc; border-radius:6px; padding:6px 10px; font-size:12px; background:#fafafa;">
+      <a href="https://github.com/BigdogManLuo/HEFTcom24"
+         target="_blank" style="text-decoration:none; color:#0b20e2ff;">
+        Research Code
+      </a>
+    </div>
+
+    <div style="border:1px solid #ccc; border-radius:6px; padding:6px 10px; font-size:12px; background:#fafafa;">
+      <a href="https://arxiv.org/abs/2505.10367"
+         target="_blank" style="text-decoration:none; color:#0b20e2ff;">
+        Paper
+      </a>
+    </div>
   </div>
 
 ---
@@ -88,57 +89,62 @@ Metrics-Driven
 ### PandaFPE 2023 – _Best Paper Award_
 
 - Integrated **day-ahead dynamic programming** with **real-time rolling optimization** for Wind-ESS system participation in energy and frequency regulation markets.
-  <div class="links">
-    <a href="https://github.com/BigdogManLuo/Wind-ESS-Optimization-in-Frequency-Regulation-Market"
-       class="btn btn-sm z-depth-0"
-       role="button"
-       target="_blank"
-       style="font-size:12px; margin-right:4px;">
-      Code
-    </a>
-        <a href="https://ieeexplore.ieee.org/document/10140535"
-       class="btn btn-sm z-depth-0"
-       role="button"
-       target="_blank"
-       style="font-size:12px; margin-right:4px;">
-      Paper
-    </a>
+  <div class="links" style="display:flex; gap:8px; flex-wrap:wrap; margin-top:6px;">
+    <div style="border:1px solid #ccc; border-radius:6px; padding:6px 10px; font-size:12px; background:#fafafa;">
+      <a href="https://github.com/BigdogManLuo/Wind-ESS-Optimization-in-Frequency-Regulation-Market"
+         target="_blank"
+         style="text-decoration:none; color:#0b20e2ff;">
+        Code
+      </a>
+    </div>
+
+    <div style="border:1px solid #ccc; border-radius:6px; padding:6px 10px; font-size:12px; background:#fafafa;">
+      <a href="https://ieeexplore.ieee.org/document/10140535"
+         target="_blank"
+         style="text-decoration:none; color:#0b20e2ff;">
+        Paper
+      </a>
+    </div>
   </div>
 
 ---
 
-### 2021 “TI Cup” National Undergraduate Electronic Design Competition – _National 1st Prize_<small>
+### 2021 “TI Cup” National Undergraduate Electronic Design Competition – _National 1st Prize_
 
-<span class="badge"
-        style="background-color:#f5f5f5; border:1px solid #ccc; color:#333; font-size:11px; padding:2px 6px; border-radius:10px;">
-Metrics-Driven
-</span>
+<small>
+  <span class="badge"
+        style="background-color:#f5f5f5; border:1px solid #ccccccff; color:#000000ff; font-size:11px; padding:2px 6px; border-radius:10px;">
+    Metrics-Driven
+  </span>
 </small>
 
 - Designed and implemented **DSP-based control algorithms** for three-phase inverters and rectifiers.
 - Implemented **three-phase / single-phase PLL, PID, PR controllers**, and **dq / αβ transform modules** for digital signal processing.
 - Completed a full engineering stack from algorithm design to **PCB implementation** and **experimental validation**.
-  <div class="links">
-    <a href="https://github.com/BigdogManLuo/DSPLibrary"
-       class="btn btn-sm z-depth-0"
-       role="button"
-       target="_blank"
-       style="font-size:12px; margin-right:4px;">
-      DSP Tools
-    </a>
-        <a href="https://github.com/SeanXLee/universal-pe-starterkit"
-       class="btn btn-sm z-depth-0"
-       role="button"
-       target="_blank"
-       style="font-size:12px; margin-right:4px;">
-      PCB Source
-    </a>
-    </a>
-        <a href="https://github.com/SeanXLee/universal-pe-starterkit"
-       class="btn btn-sm z-depth-0"
-       role="button"
-       target="_blank"
-       style="font-size:12px; margin-right:4px;">
-       Demo Video
-    </a>
-  </div>
+  <div class="links" style="display:flex; gap:8px; flex-wrap:wrap; margin-top:6px;">
+
+    <div style="border:1px solid #ccc; border-radius:6px; padding:6px 10px; font-size:12px; background:#fafafa;">
+      <a href="https://github.com/BigdogManLuo/DSPLibrary"
+         target="_blank"
+         style="text-decoration:none; color:#0b20e2ff;">
+        DSP Tools
+      </a>
+    </div>
+
+    <div style="border:1px solid #ccc; border-radius:6px; padding:6px 10px; font-size:12px; background:#fafafa;">
+      <a href="https://github.com/SeanXLee/universal-pe-starterkit"
+         target="_blank"
+         style="text-decoration:none; color:#0b20e2ff;">
+        PCB Source
+      </a>
+    </div>
+
+    <div style="border:1px solid #ccc; border-radius:6px; padding:6px 10px; font-size:12px; background:#fafafa;">
+      <a href="https://github.com/SeanXLee/universal-pe-starterkit"
+         target="_blank"
+         style="text-decoration:none; color:#0b20e2ff;">
+        Demo Video
+      </a>
+    </div>
+
+</div>
