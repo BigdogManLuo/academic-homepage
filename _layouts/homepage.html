@@ -92,6 +92,32 @@
         </div>
         <br>
 
+        <!-- Navigation Menu -->
+        <nav class="nav-menu">
+          <ul class="nav-list">
+            <li>
+              <a href="{{ '/' | relative_url }}" {% if page.url == "/" or page.url == "/index.html" or page.url == "/index.md" %}class="nav-active"{% endif %}>
+                Homepage
+              </a>
+            </li>
+            <li>
+              <a href="{{ '/research.html' | relative_url }}" {% if page.url == "/research.html" %}class="nav-active"{% endif %}>
+                Research
+              </a>
+            </li>
+            <li>
+              <a href="{{ '/practice.html' | relative_url }}" {% if page.url == "/practice.html" %}class="nav-active"{% endif %}>
+                Practice
+              </a>
+            </li>
+            <li>
+              <a href="{{ '/blog.html' | relative_url }}" {% if page.url == "/blog.html" %}class="nav-active"{% endif %}>
+                Blog
+              </a>
+            </li>
+          </ul>
+        </nav>
+
       </header>
       <section>
 
